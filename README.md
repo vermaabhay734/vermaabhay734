@@ -51,3 +51,18 @@ I believe in the power of continuous learning. Currently, I'm focusing on:
 
 Let's collaborate, innovate, and create amazing software solutions together! Feel free to reach out to me via any of the channels above.
 
+
+## 📊 GitHub Stats
+
+[![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vermaabhay734&count_private=true&show_icons=true)](https://github.com/vermaabhay734)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vermaabhay734)](https://github.com/vermaabhay734)
+
+<!--
+## 🌐 Visit My Website
+Explore my personal website: [www.yourwebsite.com](https://www.yourwebsite.com)
+
+## 👁️ Profile Views
+![](https://komarev.com/ghpvc/?username=vermaabhay734&color=brightgreen)
+-->
+
+Thank you for visiting my GitHub profile! 😊
